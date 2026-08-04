@@ -34,6 +34,34 @@
 
 # IROC-2026 Work_Flow
 
+**We started this journey with 10 people and lot of excitement.** 
+
+1. Our first task was to understand the Goal and objective of the competition.
+2. Understating the rules and regulation has to be done thoroughly.
+> ❗ Rules and Regulation must be understood clearly, if any doubt then mail or post at QnA section.
+3. Our next step was to divide the team into 5 groups according to the objective.
+4. Creating **Deadline** is very important for smooth operation.
+5. We had given 2-3 weeks for Research and discussion among all team members.
+> ⭕ In Discussion every team member must be present to avoid any misinformation. 
+6. We also stated making **BOM** in the research period.
+7.
+
+---
+
+<div align="center">
+
+## For more details read this 👇
+
+| Topic | Documentation |
+| --- | --- |
+| **Base Station** | [Read Guide](BASE_STATION.md) |
+| **Drone** | [Read Guide](Drone.md) |
+| **Image Processing** | [Read Guide](IMAGE_PROCESSING.md) |
+| **Path Planning** | [Read Guide](PATH_PLANNING.md) |
+| **VIO** | [Read Guide](VIO.md) |
+
+</div>
+
 ---
 
 # Design 
