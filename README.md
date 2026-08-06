@@ -38,13 +38,14 @@
 
 1. Our first task was to understand the Goal and objective of the competition.
 2. Understating the rules and regulation has to be done thoroughly.
-> ❗ Rules and Regulation must be understood clearly, if any doubt then mail or post at QnA section.
+> ❗ Rules and Regulation must be understood clearly, if any doubt then mail or post at QnA section.                                                              
+> ⭕ Make sure that every management work is started early and get permission of every small things.
 3. Our next step was to divide the team into 5 groups according to the objective.
 4. Creating **Deadline** is very important for smooth operation.
 5. We had given 2-3 weeks for Research and discussion among all team members.
 > ⭕ In Discussion every team member must be present to avoid any misinformation. 
 6. We also stated making **BOM** in the research period.
-7.
+7. Maintain **attendance**.
 
 ---
 
