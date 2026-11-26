@@ -56,10 +56,8 @@
 | Topic | Documentation |
 | --- | --- |
 | **Base Station** | [Read Guide](BASE_STATION.md) |
-| **Drone** | [Read Guide](Drone.md) |
 | **Image Processing** | [Read Guide](IMAGE_PROCESSING.md) |
-| **Path Planning** | [Read Guide](PATH_PLANNING.md) |
-| **VIO** | [Read Guide](VIO.md) |
+
 
 </div>
 
